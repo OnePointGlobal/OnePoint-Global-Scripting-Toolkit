@@ -6,5 +6,5 @@ Learn how to use our enterprise level scripting language. OneScript is for the p
 [OneScript Reference Manual](http://resources.onepointglobal.com/onescript/)
 
 ## OnePoint Global Studio
-Use our research centric Integrated Development Environment to manage your scripts and interview experience.
+Use our Research Centric Integrated Development Environment (IDE) to manage your scripts and interview experience.
 [OnePoint Global Studio](http://resources.onepointglobal.com/onepoint-studio/)
