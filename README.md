@@ -1,5 +1,5 @@
 # OnePoint-Global-Scripting-Toolkit
-Professional programmers' scripting kit for an advanced feedback experience
+A professional programmers' scripting kit for an advanced feedback experience
 
 ## OneScript
 Learn how to use our enterprise level scripting language. OneScript is for the professional scripter to maximise the interview experience.
