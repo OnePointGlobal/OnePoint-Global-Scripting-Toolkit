@@ -8,3 +8,6 @@ Learn how to use our enterprise level scripting language. OneScript is for the p
 ## OnePoint Global Studio
 Use our Research Centric Integrated Development Environment (IDE) to manage your scripts and interview experience.
 [OnePoint Global Studio](http://resources.onepointglobal.com/onepoint-studio/)
+
+OnePoint Global Studio is also available as open source on GitHub now.
+[Create Your Own Version](https://github.com/OnePointGlobal/OnePoint-Global-Studio)
