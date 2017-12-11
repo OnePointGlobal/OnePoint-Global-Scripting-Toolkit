@@ -11,3 +11,6 @@ Use our Research Centric Integrated Development Environment (IDE) to manage your
 
 OnePoint Global Studio is also available as open source on GitHub now.
 [Create Your Own Version](https://github.com/OnePointGlobal/OnePoint-Global-Studio)
+
+## Scripts
+[Click here to download some useful scripts](https://github.com/OnePointGlobal/OneScript-Samples)
